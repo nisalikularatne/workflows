@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="56d13f17-15e0-4ed8-81cd-8189085a8e84" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
+=======
+    <list default="true" id="56d13f17-15e0-4ed8-81cd-8189085a8e84" name="Changes" comment="" />
+>>>>>>> c6e52e63f476320e55b49af0bea586017c14e590
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +25,7 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+<<<<<<< HEAD
                     <option name="branchName" value="staging" />
                     <option name="lastUsedInstant" value="1670609502" />
                   </RecentBranch>
@@ -31,6 +36,26 @@
                   <RecentBranch>
                     <option name="branchName" value="prod" />
                     <option name="lastUsedInstant" value="1670609314" />
+=======
+                    <option name="branchName" value="prod" />
+                    <option name="lastUsedInstant" value="1670607695" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="prodmerge" />
+                    <option name="lastUsedInstant" value="1670606762" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="staging" />
+                    <option name="lastUsedInstant" value="1670604672" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="staging-branch" />
+                    <option name="lastUsedInstant" value="1670603833" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1670601634" />
+>>>>>>> c6e52e63f476320e55b49af0bea586017c14e590
                   </RecentBranch>
                 </list>
               </option>
@@ -73,7 +98,11 @@
       <option name="presentableId" value="Default" />
       <updated>1670601523455</updated>
       <workItem from="1670601525917" duration="3803000" />
+<<<<<<< HEAD
       <workItem from="1670607722755" duration="1798000" />
+=======
+      <workItem from="1670607722755" duration="314000" />
+>>>>>>> c6e52e63f476320e55b49af0bea586017c14e590
     </task>
     <servers />
   </component>
